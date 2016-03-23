@@ -1,4 +1,4 @@
-#CMPS112#CMPS112
+#CMPS112
 
 This course provides a broad background in the different styles of programming languages, and the principles behind these languages.
 
