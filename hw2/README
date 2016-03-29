@@ -1,0 +1,20 @@
+HW2: Question 11 from HW2
+Authors: Prateek Chawla and Adel Danandeh
+
+Program Description: 
+Spells out the number as string in English.
+
+Instructions on how to run HW2.py: 
+This python script can be run in a number of manners (listed below). Tested on Python 2.7.10. 
+1. python HW2.py NUMBER  
+	python HW2.py 23
+	twenty three
+2. ./HW2.py NUMBER
+	./HW2.py 93218065
+	ninety three million two hundred eighteen thousand sixty five
+3. Open the python interpreter, import HW2 and execute HW2.sayNum(NUMBER)
+	>>> import HW2
+	>>> HW2.sayNum(82379)
+	'eighty two thousand three hundred seventy nine'
+
+IMPORTANT NOTE: Replace the NUMBER command line argument, above, with an integer number like: 82379. 
